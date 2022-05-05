@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1637429853 source:/home/ogi/Media/e2231389_HW1/src/course.cpp
+	"course.h"
+	"student.h"
+
+1637429853 /home/ogi/Media/e2231389_HW1/include/course.h
+	<iostream>
+	<stdlib.h>
+	"student.h"
+
+1637429853 /home/ogi/Media/e2231389_HW1/include/student.h
+	<iostream>
+	<stdlib.h>
+
+1637429853 source:/home/ogi/Media/e2231389_HW1/src/student.cpp
+	"student.h"
+
+1637430474 source:/home/ogi/Media/e2231389_HW1/main.cpp
+	<iostream>
+	"student.h"
+	"course.h"
+
